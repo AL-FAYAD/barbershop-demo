@@ -11,7 +11,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
 
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+       <!-- @vite(['resources/css/app.css', 'resources/js/app.js']) --
     </head>
     <body class="bg-[#11110f] text-stone-100 antialiased">
         <header class="absolute inset-x-0 top-0 z-10">
